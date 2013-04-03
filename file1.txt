@@ -1,0 +1,15 @@
+
+a b c d e f g     5 
+a   c d   f g w   h k   x c v   b 
+a b c d   f g     h k   x c v   b
+  s d f g h
+q w e     r t y 
+    t a x     i   d       d     q
+p  
+p
+        i                 i
+i o
+
+        r   h
+
+d g w e r
